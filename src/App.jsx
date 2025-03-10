@@ -5,7 +5,8 @@ function App() {
   const data = [
     {
       "name":"John Doe",
-      "title":"Software Engineer"
+      "title":"Software Engineer",
+      
     },
     {
       "name":"Marcus Klein",
